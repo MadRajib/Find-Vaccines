@@ -1,6 +1,8 @@
 # Find-Vaccines
 A js script to find available booking slot for vaccine
 
+Youtube_link: https://youtu.be/Ngxhj9Nqxj8
+
 Go to https://www.cowin.gov.in/home, in chrome
 
 1. Select search by district and select state and district
