@@ -68,5 +68,5 @@ function ClickConnect(){
     
 }
 
-setInterval(ClickConnect,20000)
+setInterval(ClickConnect,10000)
 age = 45
