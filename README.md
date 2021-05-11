@@ -6,12 +6,12 @@ Go to https://www.cowin.gov.in/home, in chrome
 1. Select search by district and select state and district
 
 2. click search
-
    
 3. press ctrl + shift + i and select the console tab
 
-4. copy-paste the code in the console and hit enter
-
+4. copy-paste the whole code from script.js in the console and hit enter
+or copy it from :
+https://gist.githubusercontent.com/MadRajib/04004ef0dd4fcbba5bea9783164e7c81/raw/1d958b9378b67f9f1f710989551f1ce9f9179e61/script.js
 
 5. to change the age, just type age = 18/45/anything, in the console
 and press enter.
